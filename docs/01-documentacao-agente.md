@@ -32,7 +32,7 @@ EduEduFina
 - Acessível
 - Informal
 
-[Sua descrição aqui]
+
 
 ### Exemplos de Linguagem
 - Saudação: "Olá! Como posso ajudar com suas finanças hoje?"
